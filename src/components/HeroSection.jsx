@@ -1,16 +1,14 @@
 import { ArrowDownCircle } from "lucide-react"
+import myimage from "../../public/my-image.png";
 
 export const HeroSection = () => {
     return (
         <section id="hero" className="relative h-screen flex flex-col items-center justify-center text-center px-4">
-            {/* Profile Image */}
             <div className="relative flex justify-center items-center">
-                {/* Animated border */}
                 <span className="absolute inline-flex h-[180px] w-[180px] rounded-full border-4 border-primary animate-ping"></span>
 
-                {/* Main image */}
                 <img
-                    src="./public/My Image.png"
+                    src={myimage}
                     alt="Kirtirajsinh Parmar"
                     className="relative z-10 w-44 h-44 md:w-52 md:h-52 rounded-full object-cover border-4 border-primary shadow-lg"
                 />
