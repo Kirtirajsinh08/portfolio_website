@@ -31,8 +31,8 @@ export const HeroSection = () => {
             {/* Button */}
             <button className="mt-8 mb-12 px-6 py-3 bg-purple-500 text-white rounded-full 
                                hover:cursor-pointer hover:text-primary hover:bg-foreground/20 
-                               hover:border-2 hover:border-white transition">
-                View My Work
+                               hover:border-2 hover:border-white transition" href>
+                <a href="#projects">View My Work</a>
             </button>
 
             {/* Scroll Down Indicator */}
