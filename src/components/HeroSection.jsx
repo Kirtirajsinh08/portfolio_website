@@ -10,7 +10,7 @@ export const HeroSection = () => {
 
                 {/* Main image */}
                 <img
-                    src={"/src/assets/My Image.png"}
+                    src="./public/My Image.png"
                     alt="Kirtirajsinh Parmar"
                     className="relative z-10 w-44 h-44 md:w-52 md:h-52 rounded-full object-cover border-4 border-primary shadow-lg"
                 />
