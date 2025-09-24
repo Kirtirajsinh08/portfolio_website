@@ -6,7 +6,7 @@ const projects = [
         title: "Cold E-mail Generator",
         description: "A comprehensive solution that combines AI, automation, and personalization to create effective cold emails at scale.",
         image: "/projects/Project 1.jpg",
-        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_SportsDomain"
+        githuburl: "https://github.com/Kirtirajsinh08/email_generator"
     },
     {
         id: 2,
