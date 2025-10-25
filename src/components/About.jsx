@@ -38,24 +38,11 @@ export const About = () => {
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">{" "}Get In Touch</a>
 
-                            <a href="https://drive.google.com/file/d/1G_aOMRZkhsDg9YZEhYfXLC-j6XhFqGT2/view?usp=drive_link" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">Download CV</a>
+                            <a href="https://drive.google.com/file/d/10Krat91dXxxc-jDnS5kCP8wL_xE8oivy/view?usp=drive_link" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">Download CV</a>
                         </div>
                     </div>
 
                     <div className="grid grid-cols-1 gap-6">
-                        <div className="gradient-border p-6 card-hover">
-                            <div className="flex items-start gap-4">
-                                <div className="p-3 rounded-full bg-primary/10">
-                                    <Layers className="h-6 w-6 text-primary" />
-                                </div>
-                                <div className="text-left">
-                                    <h4 className="font-semibold text-lg">MERN Stack Development</h4>
-                                    <p className="text-muted-foreground">
-                                        Building responsive, scalable web applications with help of MongoDB, Express.js, React.js, and Node.js.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
                         <div className="gradient-border p-6 card-hover">
                             <div className="flex items-start gap-4">
                                 <div className="p-3 rounded-full bg-primary/10">
@@ -79,6 +66,19 @@ export const About = () => {
                                     <h4 className="font-semibold text-lg">AI/ML</h4>
                                     <p className="text-muted-foreground">
                                         Creating intelligent solutions using machine learning, deep learning, and computer vision.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="gradient-border p-6 card-hover">
+                            <div className="flex items-start gap-4">
+                                <div className="p-3 rounded-full bg-primary/10">
+                                    <Layers className="h-6 w-6 text-primary" />
+                                </div>
+                                <div className="text-left">
+                                    <h4 className="font-semibold text-lg">MERN Stack Development</h4>
+                                    <p className="text-muted-foreground">
+                                        Building responsive, scalable web applications with help of MongoDB, Express.js, React.js, and Node.js.
                                     </p>
                                 </div>
                             </div>
