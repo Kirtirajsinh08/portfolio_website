@@ -3,45 +3,45 @@ import { ArrowRightCircle, Github } from "lucide-react"
 const projects = [
     {
         id: 1,
-        title: "Cold E-mail Generator",
-        description: "A comprehensive solution that combines AI, automation, and personalization to create effective cold emails at scale.",
-        image: "/projects/Project 1.jpg",
-        githuburl: "https://github.com/Kirtirajsinh08/email_generator"
-    },
-    {
-        id: 2,
         title: "Smart Resume Analyser",
         description: "An AI-powered application that evaluates resumes and ranks candidates for recruitment.",
         image: "/projects/Project 2.jpg",
         githuburl: "https://github.com/Kirtirajsinh08/Resume_Analyser"
     },
     {
-        id: 3,
+        id: 2,
         title: "HealWell - Healthcare Website",
         description: "An end-to-end healthcare platform offering services, appointment booking, skin care assistant and more.",
         image: "/projects/Project 3.jpg",
         githuburl: "https://github.com/archanpatel1425/HealthCare"
     },
     {
-        id: 4,
+        id: 3,
         title: "Bank Loan Report Dashboard",
         description: "An interactive dashboard analyzing bank loan data for key finance performance metrics.",
         image: "/projects/Project 4.jpeg",
-        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_FinanceDomain"
+        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_Dashboards/tree/main/Bank%20Loan%20Report%20-%20Finance%20Domain"
     },
     {
-        id: 5,
+        id: 4,
         title: "Movie Recommender System",
         description: "A machine learning system recommending movies to users based on viewing preferences.",
         image: "/projects/Project 5.png",
         githuburl: "https://github.com/Kirtirajsinh08/Movie_Recommender_System"
     },
     {
-        id: 6,
+        id: 5,
         title: "House Price Prediction Model",
         description: "A machine learning model that predicts house prices based on location and other features.",
         image: "/projects/Project 6.png",
         githuburl: "https://github.com/Kirtirajsinh08/house_price_prediction"
+    },
+    {
+        id: 6,
+        title: "Cricket Data Analysis - T20 World Cup",
+        description: "A comprehensive solution that combines AI, automation, and personalization to create effective cold emails at scale.",
+        image: "/projects/Project 1.jpg",
+        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_Dashboards/tree/main/World%20Cup%202022%20Analysis%20-%20Sports%20Domain"
     }
 ]
 
