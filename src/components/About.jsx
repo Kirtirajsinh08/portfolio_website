@@ -38,7 +38,7 @@ export const About = () => {
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">{" "}Get In Touch</a>
 
-                            <a href="https://drive.google.com/file/d/1H7kQFubT_fK5QQcuPsIwJKzVARggRm5F/view?usp=drive_link" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">Download CV</a>
+                            <a href="https://drive.google.com/file/d/1tOThfWD0y7VTFPsytFQRPdu0vi8XACMY/view?usp=drive_link" className="cosmic-button hover:cursor-pointer hover:text-primary hover:bg-foreground/20 hover:border-3 hover:border-white">Download CV</a>
                         </div>
                     </div>
 
