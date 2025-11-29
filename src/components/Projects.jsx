@@ -9,20 +9,6 @@ const projects = [
         githuburl: "https://github.com/Kirtirajsinh08/Resume_Analyser"
     },
     {
-        id: 6,
-        title: "HealWell - Healthcare Website",
-        description: "An end-to-end healthcare platform offering services, appointment booking, skin care assistant and more.",
-        image: "/projects/Project 3.jpg",
-        githuburl: "https://github.com/archanpatel1425/HealthCare"
-    },
-    {
-        id: 4,
-        title: "Bank Loan Report Dashboard",
-        description: "An interactive dashboard analyzing bank loan data for key finance performance metrics.",
-        image: "/projects/Project 4.jpeg",
-        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_Dashboards/tree/main/Bank%20Loan%20Report%20-%20Finance%20Domain"
-    },
-    {
         id: 2,
         title: "Cine Suggest",
         description: "A machine learning system recommending movies to users based on viewing preferences.",
@@ -37,11 +23,25 @@ const projects = [
         githuburl: "https://github.com/Kirtirajsinh08/house_price_prediction"
     },
     {
+        id: 4,
+        title: "Bank Loan Report Dashboard",
+        description: "An interactive dashboard analyzing bank loan data for key finance performance metrics.",
+        image: "/projects/Project 4.jpeg",
+        githuburl: "https://github.com/Kirtirajsinh08/PowerBI_Dashboards/tree/main/Bank%20Loan%20Report%20-%20Finance%20Domain"
+    },
+    {
         id: 5,
         title: "Cricket Data Analysis - T20 World Cup",
         description: "A comprehensive dashoard regarding T20 World Cup 2024.",
         image: "/projects/Project 1.jpg",
         githuburl: "https://github.com/Kirtirajsinh08/PowerBI_Dashboards/tree/main/World%20Cup%202022%20Analysis%20-%20Sports%20Domain"
+    },
+    {
+        id: 6,
+        title: "HealWell - Healthcare Website",
+        description: "An end-to-end healthcare platform offering services, appointment booking, skin care assistant and more.",
+        image: "/projects/Project 3.jpg",
+        githuburl: "https://github.com/archanpatel1425/HealthCare"
     }
 ]
 
